@@ -20,3 +20,5 @@
 
 ## Accomplishments
 
+## Focus on goals that the CAB can accomplish without CFEngine the company.
+The company has its own goals and priorities that seldom mesh with ours. We should focus what we can do on our own.
